@@ -13,6 +13,7 @@ function App() {
         <h1>hello jovan</h1>
         <h1>{ title }</h1>
         <p>Liked {likes} times</p>
+        <p>Hello job</p>
         
       </div>
 
