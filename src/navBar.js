@@ -1,4 +1,7 @@
 import Home from "./home"
+
+
+
 const NavBar = () => {
     return ( 
         <nav className="navBar">
